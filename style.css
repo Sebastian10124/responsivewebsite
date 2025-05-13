@@ -79,7 +79,7 @@ button:hover{
     border-radius: 10px;
 }
 
-@media ( min-width:460px)and  (max-width:590px){
+@media ( min-width:360px)and  (max-width:590px){
     #center{
     
         align-items: center;
